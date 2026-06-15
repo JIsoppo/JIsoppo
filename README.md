@@ -96,6 +96,7 @@ Plataforma de mobilidade urbana voltada para motoristas parceiros.
 * Cobrança de cancelamentos
 * Histórico de corridas
 * Sistema de ganhos
+* Cota mínima de R$/km
 * Integração com Drivon Driver
 
 🚧 Em fase de planejamento
@@ -113,6 +114,8 @@ Aplicativo para solicitação de corridas.
 * Histórico de viagens
 * Avaliação de motoristas
 * Pagamentos digitais
+* Motoristas favoritos
+* Verificação diária de limpeza dos carros
 * Integração regional
 
 🎯 Objetivo:
@@ -144,8 +147,6 @@ Oferecer uma alternativa regional de mobilidade para o Vale do Araranguá, conec
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=JIsoppo&show_icons=true&theme=tokyonight" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIsoppo&layout=compact&theme=tokyonight" />
 
 </div>
 
