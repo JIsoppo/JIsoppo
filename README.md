@@ -1,32 +1,130 @@
 <!-- HEADER -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6200ee&height=120&section=header"/>
 
-<h1 align="center">👨‍💻 José Carlos Isoppo da Cunha</h1>
-<h3 align="center">Desenvolvedor & Educador | Criando soluções reais com tecnologia</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=120&section=header"/>
 
----
+<h1 align="center">🚀 José Carlos Isoppo da Cunha</h1>
 
-## 🚀 Sobre mim
+<h3 align="center">
+Fundador do Projeto Drivon
+</h3>
 
-🎯 Desenvolvedor focado em projetos práticos e soluções reais  
-👨‍🏫 Professor explorando tecnologia na educação  
-📍 Santa Catarina, Brasil  
-
-💡 Atualmente trabalhando no:
-
-### 🔥 Drivon
-> Sistema de gestão automotiva com foco em oficinas e controle de veículos
-
-- 📱 App mobile (React Native / Expo)
-- ☁️ Integração com Firebase
-- 🧾 Controle de manutenção e histórico
-- 📊 Organização de dados em tempo real  
-
-👉 *(em breve link do repositório)*
+<p align="center">
+Construindo um ecossistema de aplicativos para motoristas, passageiros, finanças e famílias.
+</p>
 
 ---
 
-## 🧠 Tecnologias
+# 👋 Sobre Mim
+
+Sou desenvolvedor de aplicações mobile utilizando React Native, Expo e Firebase.
+
+Meu foco é criar soluções práticas para problemas reais do dia a dia, especialmente nas áreas de:
+
+* 🚗 Mobilidade
+* 💰 Finanças pessoais
+* 👨‍👩‍👧‍👦 Organização familiar
+* 📊 Produtividade
+
+Atualmente estou desenvolvendo o ecossistema **Drivon**, uma coleção de aplicativos conectados para facilitar a vida das pessoas.
+
+---
+
+# 🌟 Ecossistema Drivon
+
+## 🚗 Drivon Driver
+
+Aplicativo voltado para motoristas de aplicativo e profissionais autônomos.
+
+### Recursos
+
+* Controle de jornadas
+* Controle de combustível
+* Gestão de veículos
+* Custos por quilômetro
+* Manutenções preventivas
+* Histórico de abastecimentos
+* Relatórios de desempenho
+
+🚧 Em fase de produção final
+
+---
+
+## 💰 Drivon Finance
+
+Aplicativo de gestão financeira pessoal.
+
+### Recursos
+
+* Controle de receitas e despesas
+* Metas financeiras
+* Planejamento mensal
+* Relatórios financeiros
+* Indicadores de saúde financeira
+* Controle de objetivos
+
+[📱 Download APK](https://expo.dev/accounts/toco021/projects/drivon-finance/builds/ab8c0d63-8cb1-4112-a6bc-eb4db691ce85)
+
+---
+
+## 👨‍👩‍👧‍👦 Drivon Family
+
+Aplicativo para organização familiar.
+
+### Em desenvolvimento
+
+Planejado para incluir:
+
+* Gestão familiar compartilhada
+* Objetivos em grupo
+* Planejamento doméstico
+* Controle de gastos familiares
+* Integração com outros aplicativos Drivon
+
+🚧 Em desenvolvimento
+
+---
+
+## 🚖 Drivon Motorista
+
+Plataforma de mobilidade urbana voltada para motoristas parceiros.
+
+### Planejado
+
+* Corridas por aplicativo
+* Definição de raio de atendimento
+* Controle de deslocamento
+* Cobrança de cancelamentos
+* Histórico de corridas
+* Sistema de ganhos
+* Integração com Drivon Driver
+
+🚧 Em fase de planejamento
+
+---
+
+## 📍 Drivon Passageiro
+
+Aplicativo para solicitação de corridas.
+
+### Planejado
+
+* Solicitação rápida de corridas
+* Acompanhamento em tempo real
+* Histórico de viagens
+* Avaliação de motoristas
+* Pagamentos digitais
+* Integração regional
+
+🎯 Objetivo:
+
+Oferecer uma alternativa regional de mobilidade para o Vale do Araranguá, conectando passageiros e motoristas de forma simples, transparente e com foco na economia local.
+
+🚧 Em fase de planejamento
+
+
+---
+
+# 🧠 Tecnologias
 
 <div align="center">
 
@@ -34,39 +132,39 @@
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
 </div>
 
 ---
 
-## 📊 Estatísticas
+# 📊 Estatísticas
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Toco020&show_icons=true&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=JIsoppo&show_icons=true&theme=tokyonight" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toco020&layout=compact&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIsoppo&layout=compact&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 📈 Atividade
+# 📈 Atividade
 
-[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=JIsoppo&bg_color=202020&color=f5f5f5&line=8000ee&point=6200ee&area=true&hide_border=true)](https://github.com/JIsoppo)
-
----
-
-## 📬 Contato
-
-- GitHub: https://github.com/JIsoppo  
-- Email: joseisoppo016@gmail.com   
+[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=JIsoppo\&bg_color=202020\&color=f5f5f5\&line=00D1FF\&point=00D1FF\&area=true\&hide_border=true)](https://github.com/JIsoppo)
 
 ---
 
-## 👀 Visitantes
+# 📬 Contato
+
+* GitHub: https://github.com/JIsoppo
+* Email: [mycreativedoublelife@gmail.com](mailto:mycreativedoublelife@gmail.com)
+
+---
+
+# 👀 Visitantes
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JIsoppo&color=00D1FF" />
@@ -74,4 +172,4 @@
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6200ee&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=120&section=footer"/>
