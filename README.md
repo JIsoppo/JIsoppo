@@ -80,7 +80,7 @@ Planejado para incluir:
 * Controle de gastos familiares
 * Integração com outros aplicativos Drivon
 
-🚧 Em desenvolvimento
+[📱 Download APK](https://expo.dev/accounts/toco021/projects/Drivon-Family/builds/60b2720d-e031-40f4-bcda-34ffdf365a98)
 
 ---
 
