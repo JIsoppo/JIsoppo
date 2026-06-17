@@ -70,9 +70,7 @@ Aplicativo de gestão financeira pessoal.
 
 Aplicativo para organização familiar.
 
-### Em desenvolvimento
-
-Planejado para incluir:
+### Recursos
 
 * Gestão familiar compartilhada
 * Objetivos em grupo
@@ -80,7 +78,7 @@ Planejado para incluir:
 * Controle de gastos familiares
 * Integração com outros aplicativos Drivon
 
-[📱 Download APK](https://expo.dev/accounts/toco021/projects/Drivon-Family/builds/60b2720d-e031-40f4-bcda-34ffdf365a98)
+[📱 Download APK](https://github.com/JIsoppo/JIsoppo/releases/tag/drivon-family-v1.0.0)
 
 ---
 
