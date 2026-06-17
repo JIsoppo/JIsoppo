@@ -62,7 +62,7 @@ Aplicativo de gestão financeira pessoal.
 * Indicadores de saúde financeira
 * Controle de objetivos
 
-[📱 Download APK](https://expo.dev/accounts/toco021/projects/drivon-finance/builds/ab8c0d63-8cb1-4112-a6bc-eb4db691ce85)
+[📱 Download APK](https://github.com/JIsoppo/JIsoppo/releases/tag/drivon-finance-v1.0.4)
 
 ---
 
