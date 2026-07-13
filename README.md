@@ -62,7 +62,7 @@ Aplicativo de gestão financeira pessoal.
 * Indicadores de saúde financeira
 * Controle de objetivos
 
-[📱 Download APK](https://github.com/JIsoppo/JIsoppo/releases/tag/v1.0.5)
+[📱 Download APK](https://github.com/JIsoppo/JIsoppo/releases/tag/v1.1.0)
 
 ---
 
