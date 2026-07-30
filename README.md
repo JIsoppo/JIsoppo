@@ -79,7 +79,7 @@ Aplicativo para organização familiar.
 * Controle de gastos familiares
 * Integração com outros aplicativos Drivon
 
-[📱 Download APK](https://github.com/JIsoppo/JIsoppo/releases/tag/v1.1.2)
+[📱 Download APK](https://github.com/JIsoppo/JIsoppo/releases/tag/v1.2.0)
 
 ---
 
