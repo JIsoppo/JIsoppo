@@ -117,7 +117,7 @@ Aplicativo para inventário de componentes eletrônicos, documentação de proje
 * Organização de laboratório e bancada
 
 🚧 Em fase de produção final
-[📱 Prévia do APK]()
+[📱 Prévia do APK](https://github.com/JIsoppo/JIsoppo/releases/tag/EB-v1.0.0)
 
 ---
 
