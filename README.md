@@ -102,6 +102,25 @@ Plataforma para administração de imóveis, locações e acompanhamento complet
 
 ---
 
+## 🔌 ElectroBox
+
+Aplicativo para inventário de componentes eletrônicos, documentação de projetos e compartilhamento de conhecimento.
+
+### Recursos
+
+* Inventário inteligente de componentes
+* Gestão de projetos eletrônicos
+* Controle de peças por projeto
+* Exportação e importação em PDF
+* Biblioteca de esquemas elétricos
+* Compartilhamento de projetos
+* Organização de laboratório e bancada
+
+🚧 Em fase de produção final
+[📱 Prévia do APK]()
+
+---
+
 # 🧠 Tecnologias
 
 <div align="center">
