@@ -46,7 +46,7 @@ Aplicativo voltado para motoristas de aplicativo e profissionais autônomos.
 * Relatórios de desempenho
 
 🚧 Em fase de produção final
-[📱 Prévia do APK]()
+[📱 Prévia do APK](https://github.com/JIsoppo/JIsoppo/releases/tag/v1.0.0)
 
 ---
 
