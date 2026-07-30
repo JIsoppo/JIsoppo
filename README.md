@@ -46,6 +46,7 @@ Aplicativo voltado para motoristas de aplicativo e profissionais autônomos.
 * Relatórios de desempenho
 
 🚧 Em fase de produção final
+[📱 Prévia do APK]()
 
 ---
 
@@ -82,46 +83,22 @@ Aplicativo para organização familiar.
 
 ---
 
-## 🚖 Drivon Motorista
+## 🏢 Drivon Imóveis
 
-Plataforma de mobilidade urbana voltada para motoristas parceiros.
+Plataforma para administração de imóveis, locações e acompanhamento completo do ciclo de vida de cada unidade.
 
-### Planejado
+### Recursos
 
-* Corridas por aplicativo
-* Definição de raio de atendimento
-* Controle de deslocamento
-* Cobrança de cancelamentos
-* Histórico de corridas
-* Sistema de ganhos
-* Cota mínima de R$/km
-* Integração com Drivon Driver
+* Gestão de condomínios, casas e unidades
+* Contratos digitais com histórico completo
+* Controle financeiro de locações
+* Vistorias com registro fotográfico
+* Gestão de ocorrências e manutenção
+* Histórico permanente de cada unidade
+* Arquivamento e exportação de contratos
+* Integração com o ecossistema Drivon
 
-🚧 Em fase de planejamento
-
----
-
-## 📍 Drivon Passageiro
-
-Aplicativo para solicitação de corridas.
-
-### Planejado
-
-* Solicitação rápida de corridas
-* Acompanhamento em tempo real
-* Histórico de viagens
-* Avaliação de motoristas
-* Pagamentos digitais
-* Motoristas favoritos
-* Verificação diária de limpeza dos carros
-* Integração regional
-
-🎯 Objetivo:
-
-Oferecer uma alternativa regional de mobilidade para o Vale do Araranguá, conectando passageiros e motoristas de forma simples, transparente e com foco na economia local.
-
-🚧 Em fase de planejamento
-
+🚧 Em fase de produção final
 
 ---
 
