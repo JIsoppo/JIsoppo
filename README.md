@@ -23,7 +23,7 @@ O Drivon reúne projetos voltados à organização e à gestão em diferentes á
 ### 🚗 Drivon Driver
 Ferramentas para motoristas de aplicativo e profissionais autônomos: jornadas, combustível, veículos, custos por quilômetro e relatórios.
 
-[Ver prévia do APK](https://github.com/JIsoppo/JIsoppo/releases/tag/v1.0.0)
+[Ver APK](https://github.com/JIsoppo/JIsoppo/releases/tag/v1.0.0)
 
 ### 💰 Drivon Finance
 Gestão financeira pessoal com receitas, despesas, planejamento, metas e relatórios.
@@ -50,13 +50,14 @@ Plataforma para criação e compartilhamento de portfólios online, com personal
 > Crie seu portfólio. Compartilhe sua marca.
 
 [Conhecer o portfólio da UnSpace](https://unspace-marcas.vercel.app/p/unspace)
+[Ver APK](https://github.com/JIsoppo/JIsoppo/releases/tag/unspace-marcas)
 
 ## 🔌 Outros projetos
 
 ### ElectroBox
 Aplicativo para organizar componentes eletrônicos, documentar projetos e compartilhar conhecimento.
 
-[Ver prévia do APK](https://github.com/JIsoppo/JIsoppo/releases/tag/EB-v1.0.0)
+[Ver APK](https://github.com/JIsoppo/JIsoppo/releases/tag/EB-v1.0.0)
 
 ## 🛠️ Tecnologias
 
