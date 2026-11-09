@@ -1,170 +1,81 @@
-<!-- HEADER -->
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=120&section=header"/>
-
-<h1 align="center">🚀 José Carlos Isoppo da Cunha</h1>
-
-<h3 align="center">
-Fundador do Projeto Drivon
-</h3>
-
 <p align="center">
-Construindo um ecossistema de aplicativos para motoristas, passageiros, finanças e famílias.
+  <img src="banner.png" alt="Universos da UnSpace e do Drivon conectados em um cenário cósmico violeta e azul" width="100%" />
 </p>
 
----
+<h1 align="center">Olá, eu sou José Carlos Isoppo da Cunha 👋</h1>
 
-# 👋 Sobre Mim
+<p align="center"><strong>Desenvolvedor de aplicações • Criador do ecossistema Drivon • UnSpace Creative Studio</strong></p>
 
-Sou desenvolvedor de aplicações mobile utilizando React Native, Expo e Firebase.
-
-Meu foco é criar soluções práticas para problemas reais do dia a dia, especialmente nas áreas de:
-
-* 🚗 Mobilidade
-* 💰 Finanças pessoais
-* 👨‍👩‍👧‍👦 Organização familiar
-* 📊 Produtividade
-
-Atualmente estou desenvolvendo o ecossistema **Drivon**, uma coleção de aplicativos conectados para facilitar a vida das pessoas.
+<p align="center">Tecnologia e criatividade para transformar ideias em soluções para o dia a dia.</p>
 
 ---
 
-# 🌟 Ecossistema Drivon
+## 🚀 Sobre mim
 
-## 🚗 Drivon Driver
+Desenvolvo aplicações com **React Native, Expo e Firebase**, buscando soluções práticas para necessidades reais. Meus projetos conectam mobilidade, finanças, organização familiar e gestão.
 
-Aplicativo voltado para motoristas de aplicativo e profissionais autônomos.
+Também atuo com design e comunicação visual na **UnSpace Creative Studio**, criando identidades, materiais de divulgação e vídeos promocionais para negócios.
 
-### Recursos
+## 🔵 Ecossistema Drivon
 
-* Controle de jornadas
-* Controle de combustível
-* Gestão de veículos
-* Custos por quilômetro
-* Manutenções preventivas
-* Histórico de abastecimentos
-* Relatórios de desempenho
+O Drivon reúne projetos voltados à organização e à gestão em diferentes áreas:
 
-🚧 Em fase de produção final
-[📱 Prévia do APK](https://github.com/JIsoppo/JIsoppo/releases/tag/v1.0.0)
+### 🚗 Drivon Driver
+Ferramentas para motoristas de aplicativo e profissionais autônomos: jornadas, combustível, veículos, custos por quilômetro e relatórios.
 
----
+[Ver prévia do APK](https://github.com/JIsoppo/JIsoppo/releases/tag/v1.0.0)
 
-## 💰 Drivon Finance
+### 💰 Drivon Finance
+Gestão financeira pessoal com receitas, despesas, planejamento, metas e relatórios.
 
-Aplicativo de gestão financeira pessoal.
+[Ver APK](https://github.com/JIsoppo/JIsoppo/releases/tag/v1.1.0)
 
-### Recursos
+### 👨‍👩‍👧‍👦 Drivon Family
+Organização de compras e informações compartilhadas entre membros da família, com recursos para listas e acompanhamento de preços.
 
-* Controle de receitas e despesas
-* Metas financeiras
-* Planejamento mensal
-* Relatórios financeiros
-* Indicadores de saúde financeira
-* Controle de objetivos
+[Ver APK](https://github.com/JIsoppo/JIsoppo/releases/tag/v1.2.0)
 
-[📱 Download APK](https://github.com/JIsoppo/JIsoppo/releases/tag/v1.1.0)
+### 🏠 Drivon Imóveis
+Gestão de imóveis e locações, incluindo unidades, contratos, vistorias e acompanhamento financeiro.
 
----
+[Ver APK](https://github.com/JIsoppo/JIsoppo/releases/tag/drivon-imoveis)
 
-## 👨‍👩‍👧‍👦 Drivon Family
+## 🟣 UnSpace Creative Studio
 
-Aplicativo para organização familiar.
+Um espaço para unir **design, identidade visual e conteúdo audiovisual**, ajudando profissionais e negócios a apresentar suas marcas.
 
-### Recursos
+### ✨ UnSpace Marcas
+Plataforma para criação e compartilhamento de portfólios online, com personalização para profissionais e empresas.
 
-* Gestão familiar compartilhada
-* Objetivos em grupo
-* Planejamento doméstico
-* Controle de gastos familiares
-* Integração com outros aplicativos Drivon
+> Crie seu portfólio. Compartilhe sua marca.
 
-[📱 Download APK](https://github.com/JIsoppo/JIsoppo/releases/tag/v1.2.0)
+[Conhecer o portfólio da UnSpace](https://unspace-marcas.vercel.app/p/unspace)
 
----
+## 🔌 Outros projetos
 
-## 🏢 Drivon Imóveis
+### ElectroBox
+Aplicativo para organizar componentes eletrônicos, documentar projetos e compartilhar conhecimento.
 
-Plataforma para administração de imóveis, locações e acompanhamento completo do ciclo de vida de cada unidade.
+[Ver prévia do APK](https://github.com/JIsoppo/JIsoppo/releases/tag/EB-v1.0.0)
 
-### Recursos
-
-* Gestão de condomínios, casas e unidades
-* Contratos digitais com histórico completo
-* Controle financeiro de locações
-* Vistorias com registro fotográfico
-* Gestão de ocorrências e manutenção
-* Histórico permanente de cada unidade
-* Arquivamento e exportação de contratos
-* Integração com o ecossistema Drivon
-
-[📱 Download APK](https://github.com/JIsoppo/JIsoppo/releases/tag/drivon-imoveis)
-
----
-
-## 🔌 ElectroBox
-
-Aplicativo para inventário de componentes eletrônicos, documentação de projetos e compartilhamento de conhecimento.
-
-### Recursos
-
-* Inventário inteligente de componentes
-* Gestão de projetos eletrônicos
-* Controle de peças por projeto
-* Exportação e importação em PDF
-* Biblioteca de esquemas elétricos
-* Compartilhamento de projetos
-* Organização de laboratório e bancada
-
-🚧 Em fase de produção final
-[📱 Prévia do APK](https://github.com/JIsoppo/JIsoppo/releases/tag/EB-v1.0.0)
-
----
-
-# 🧠 Tecnologias
-
-<div align="center">
-
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-
-</div>
-
----
-
-# 📊 Estatísticas
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JIsoppo&show_icons=true&theme=tokyonight" />
-
-</div>
-
----
-
-# 📈 Atividade
-
-[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=JIsoppo\&bg_color=202020\&color=f5f5f5\&line=00D1FF\&point=00D1FF\&area=true\&hide_border=true)](https://github.com/JIsoppo)
-
----
-
-# 📬 Contato
-
-* GitHub: https://github.com/JIsoppo
-* Email: [mycreativedoublelife@gmail.com](mailto:mycreativedoublelife@gmail.com)
-
----
-
-# 👀 Visitantes
+## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JIsoppo&color=00D1FF" />
+  <img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  <img height="40" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
+  <img height="40" alt="React e React Native" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />&nbsp;&nbsp;
+  <img height="40" alt="Firebase" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" />&nbsp;&nbsp;
+  <img height="40" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 </p>
+
+<p align="center">React Native · Expo · JavaScript · TypeScript · Firebase · Firestore · Git</p>
+
+## 📬 Vamos conversar?
+
+- GitHub: [@JIsoppo](https://github.com/JIsoppo)
+- E-mail: [mycreativedoublelife@gmail.com](mailto:mycreativedoublelife@gmail.com)
+- Portfólio: [UnSpace Creative Studio](https://unspace-marcas.vercel.app/p/unspace)
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=120&section=footer"/>
+<p align="center"><i>Ideias que conectam tecnologia, criatividade e pessoas.</i> 💜💙</p>
