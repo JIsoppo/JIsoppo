@@ -33,7 +33,7 @@ Gestão financeira pessoal com receitas, despesas, planejamento, metas e relató
 ### 👨‍👩‍👧‍👦 Drivon Family
 Organização de compras e informações compartilhadas entre membros da família, com recursos para listas e acompanhamento de preços.
 
-[Ver APK](https://github.com/JIsoppo/JIsoppo/releases/tag/v1.2.0)
+[Ver APK](https://github.com/JIsoppo/JIsoppo/releases/tag/v1.3.3)
 
 ### 🏠 Drivon Imóveis
 Gestão de imóveis e locações, incluindo unidades, contratos, vistorias e acompanhamento financeiro.
