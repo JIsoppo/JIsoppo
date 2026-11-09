@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner2.png" alt="Universos da UnSpace e do Drivon conectados em um cenário cósmico violeta e azul" width="100%" />
+  <img src="banner.png" alt="Universos da UnSpace e do Drivon conectados em um cenário cósmico violeta e azul" width="100%" />
 </p>
 
 <h1 align="center">Olá, eu sou José Carlos Isoppo da Cunha 👋</h1>
