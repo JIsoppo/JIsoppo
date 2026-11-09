@@ -98,7 +98,7 @@ Plataforma para administração de imóveis, locações e acompanhamento complet
 * Arquivamento e exportação de contratos
 * Integração com o ecossistema Drivon
 
-🚧 Em fase de produção final
+[📱 Download APK](https://github.com/JIsoppo/JIsoppo/releases/tag/drivon-imoveis)
 
 ---
 
