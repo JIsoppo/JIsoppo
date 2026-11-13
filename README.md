@@ -49,7 +49,7 @@ Plataforma para criação e compartilhamento de portfólios online, com personal
 
 > Crie seu portfólio. Compartilhe sua marca.
 
-[Conhecer o portfólio da UnSpace](https://unspace-marcas.vercel.app/p/unspace)
+[Conhecer o UnSpace Marcas Web](https://unspace-marcas.vercel.app/)
 [Ver APK](https://github.com/JIsoppo/JIsoppo/releases/tag/unspace-marcas)
 
 ## 🔌 Outros projetos
